@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @NichitaVeaceslav
+- With a experience in telecommunications, I'm reconverting to #Development.
 - 📫 veaceslav.nichita@gmail.com
 
 <!---
